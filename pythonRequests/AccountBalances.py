@@ -4,7 +4,7 @@ import requests
 url = 'https://api-sandbox.sebgroup.com/ais/v6/identified2/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/balances'
 
 #To be adjusted accordingly
-bearerToken = 'v3QcwsKxERnwvdyWeEiR'
+bearerToken = 'EpVzykSlffqh0tCn0q4C'
 
 headers = {
     'Accept': 'application/json',
