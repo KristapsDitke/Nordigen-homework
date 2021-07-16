@@ -1,7 +1,7 @@
 # Nordigen-homework
 ### Task description: 
 <ul>
-  <li>Create a Postman request collection for SEB Sweden developer sandbox in order to aquire transaction data.</li>
+  <li>To create a Postman request collection for SEB Sweden developer sandbox in order to aquire transaction data.</li>
   <li>To generate apropriate Python requests.</li>
 </ul> 
 
